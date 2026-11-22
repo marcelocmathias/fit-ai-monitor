@@ -1,11 +1,11 @@
 ---
 title: Fit AI Monitor — setup guide
+description: Record gym sessions on a Galaxy Watch, see them in Samsung Health, and log your loads by chatting with Claude.
 lang: en
 ---
 
 **English** · [Português (Brasil)](pt-br.html)
 
-# Fit AI Monitor — setup guide
 
 Record your gym sessions on a Galaxy Watch, see them in Samsung Health, and talk
 to Claude about what you lifted.

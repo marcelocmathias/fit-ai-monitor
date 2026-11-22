@@ -1,11 +1,11 @@
 ---
 title: Fit AI Monitor — guia de instalação
+description: Grave seus treinos no Galaxy Watch, veja no Samsung Health e registre as cargas conversando com o Claude.
 lang: pt-BR
 ---
 
 [English](./) · **Português (Brasil)**
 
-# Fit AI Monitor — guia de instalação
 
 Grave seus treinos de academia no Galaxy Watch, veja no Samsung Health e
 converse com o Claude sobre as cargas que você levantou.
